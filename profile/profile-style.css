@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+span {
+    border: 2px dotted green;
+}
+
+.bg-yellow{
+    background-color: rgb(255, 255, 0);
+}
+
+.bg-yellow2{
+    background-color: rgb(159, 159, 49);
+}
