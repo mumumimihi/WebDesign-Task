@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+a {
+    font-size: 0.7rem;
+}
+
+fieldset {
+    margin-bottom: 30px;
+}
+
+input{
+    margin-bottom: 20px;
+}
+
+input{
+    margin-right: 15px;
+}
+
